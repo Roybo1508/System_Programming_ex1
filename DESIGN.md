@@ -2,6 +2,16 @@
 
 **GitHub repository:** https://github.com/Roybo1508/System_Programming_ex1
 
+**Build environment:** the program was compiled on Ubuntu 24.04 (x86-64) with
+GCC 13.3.0, using the compilation command required in the assignment:
+
+```
+gcc -Wall -Wextra -std=gnu11 -O2 my_cp.c -o my_cp
+```
+
+The compilation finished without errors and without warnings. The executable
+`my_cp` in the repository is the output of this compilation.
+
 ## 1. Purpose and Requirements Overview
 
 `my_cp` is a command line program that copies one file to another using low level

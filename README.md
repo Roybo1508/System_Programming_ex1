@@ -30,6 +30,8 @@ gcc -Wall -Wextra -std=gnu11 -O2 my_cp.c -o my_cp
 
 It compiles without errors and without warnings. `make clean` deletes the executable.
 
+The executable in this repository was compiled on Ubuntu 24.04 (x86-64) with GCC 13.3.0.
+
 ## Usage
 
 ```
